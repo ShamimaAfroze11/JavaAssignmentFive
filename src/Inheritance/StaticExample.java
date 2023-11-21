@@ -1,7 +1,7 @@
 package Inheritance;
 
 public class StaticExample {
-    public static String name = "Sourav";
+    public static String name = "Rozin";
     public static int age = 30;
     public static void displayInformation(){
 
